@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I’m Mamshazi</h1>
+<h3 align="center">Software Developer in Training | WeThinkCode_</h3>
 
-<!--
-**mamshazi/mamshazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/mamshazi">
+    <img src="https://img.shields.io/github/followers/mamshazi?label=Followers&style=social" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I’m a passionate software developer in training, currently studying at **WeThinkCode_**.  
+I enjoy learning how systems work, solving problems with code, and building projects that help me grow technically and creatively.
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Learning
+- Python programming  
+- Version control with Git  
+- Collaborative development using GitHub  
+- Problem-solving and algorithms  
+
+---
+
+## 🎯 Goals
+- Build strong foundations in software development  
+- Create clean, readable, and maintainable code  
+- Contribute to real-world projects  
+- Grow into a professional software engineer  
+
+---
+
+## 📂 Projects
+🔹 **MyFirstProject**  
+A beginner GitHub project focused on learning Git, GitHub, and project structure.
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamshazi&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 💼 GitHub: [github.com/mamshazi](https://github.com/mamshazi)
+
+---
+
+⭐ *Thanks for visiting my profile! Follow along as I grow and build more projects.*
