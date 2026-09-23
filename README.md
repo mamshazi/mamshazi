@@ -1,8 +1,7 @@
 # Hi 👋, I'm Nokubonga Nzuza
 
-### Software Developer in Training | WeThinkCode_
+### Software Engineer in Training | WeThinkCode_
 
-![Followers](https://img.shields.io/github/followers/mamshazi?label=Followers&style=social)
 
 ---
 
